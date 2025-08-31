@@ -1,0 +1,14 @@
+D:\WorkSpace\SystemTime\bin\Debug\net9.0\SystemTime.exe
+D:\WorkSpace\SystemTime\bin\Debug\net9.0\SystemTime.deps.json
+D:\WorkSpace\SystemTime\bin\Debug\net9.0\SystemTime.runtimeconfig.json
+D:\WorkSpace\SystemTime\bin\Debug\net9.0\SystemTime.dll
+D:\WorkSpace\SystemTime\bin\Debug\net9.0\SystemTime.pdb
+D:\WorkSpace\SystemTime\obj\Debug\net9.0\SystemTime.GeneratedMSBuildEditorConfig.editorconfig
+D:\WorkSpace\SystemTime\obj\Debug\net9.0\SystemTime.AssemblyInfoInputs.cache
+D:\WorkSpace\SystemTime\obj\Debug\net9.0\SystemTime.AssemblyInfo.cs
+D:\WorkSpace\SystemTime\obj\Debug\net9.0\SystemTime.csproj.CoreCompileInputs.cache
+D:\WorkSpace\SystemTime\obj\Debug\net9.0\SystemTime.dll
+D:\WorkSpace\SystemTime\obj\Debug\net9.0\refint\SystemTime.dll
+D:\WorkSpace\SystemTime\obj\Debug\net9.0\SystemTime.pdb
+D:\WorkSpace\SystemTime\obj\Debug\net9.0\SystemTime.genruntimeconfig.cache
+D:\WorkSpace\SystemTime\obj\Debug\net9.0\ref\SystemTime.dll
