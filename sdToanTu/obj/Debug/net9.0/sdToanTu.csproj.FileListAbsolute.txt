@@ -1,0 +1,15 @@
+D:\WorkSpace\sdToanTu\bin\Debug\net9.0\sdToanTu.exe
+D:\WorkSpace\sdToanTu\bin\Debug\net9.0\sdToanTu.deps.json
+D:\WorkSpace\sdToanTu\bin\Debug\net9.0\sdToanTu.runtimeconfig.json
+D:\WorkSpace\sdToanTu\bin\Debug\net9.0\sdToanTu.dll
+D:\WorkSpace\sdToanTu\bin\Debug\net9.0\sdToanTu.pdb
+D:\WorkSpace\sdToanTu\obj\Debug\net9.0\sdToanTu.GeneratedMSBuildEditorConfig.editorconfig
+D:\WorkSpace\sdToanTu\obj\Debug\net9.0\sdToanTu.AssemblyInfoInputs.cache
+D:\WorkSpace\sdToanTu\obj\Debug\net9.0\sdToanTu.AssemblyInfo.cs
+D:\WorkSpace\sdToanTu\obj\Debug\net9.0\sdToanTu.csproj.CoreCompileInputs.cache
+D:\WorkSpace\sdToanTu\obj\Debug\net9.0\sdToanTu.sourcelink.json
+D:\WorkSpace\sdToanTu\obj\Debug\net9.0\sdToanTu.dll
+D:\WorkSpace\sdToanTu\obj\Debug\net9.0\refint\sdToanTu.dll
+D:\WorkSpace\sdToanTu\obj\Debug\net9.0\sdToanTu.pdb
+D:\WorkSpace\sdToanTu\obj\Debug\net9.0\sdToanTu.genruntimeconfig.cache
+D:\WorkSpace\sdToanTu\obj\Debug\net9.0\ref\sdToanTu.dll
