@@ -1,0 +1,15 @@
+D:\WorkSpace\TH_hello2\bin\Debug\net9.0\TH_hello2.exe
+D:\WorkSpace\TH_hello2\bin\Debug\net9.0\TH_hello2.deps.json
+D:\WorkSpace\TH_hello2\bin\Debug\net9.0\TH_hello2.runtimeconfig.json
+D:\WorkSpace\TH_hello2\bin\Debug\net9.0\TH_hello2.dll
+D:\WorkSpace\TH_hello2\bin\Debug\net9.0\TH_hello2.pdb
+D:\WorkSpace\TH_hello2\obj\Debug\net9.0\TH_hello2.GeneratedMSBuildEditorConfig.editorconfig
+D:\WorkSpace\TH_hello2\obj\Debug\net9.0\TH_hello2.AssemblyInfoInputs.cache
+D:\WorkSpace\TH_hello2\obj\Debug\net9.0\TH_hello2.AssemblyInfo.cs
+D:\WorkSpace\TH_hello2\obj\Debug\net9.0\TH_hello2.csproj.CoreCompileInputs.cache
+D:\WorkSpace\TH_hello2\obj\Debug\net9.0\TH_hello2.sourcelink.json
+D:\WorkSpace\TH_hello2\obj\Debug\net9.0\TH_hello2.dll
+D:\WorkSpace\TH_hello2\obj\Debug\net9.0\refint\TH_hello2.dll
+D:\WorkSpace\TH_hello2\obj\Debug\net9.0\TH_hello2.pdb
+D:\WorkSpace\TH_hello2\obj\Debug\net9.0\TH_hello2.genruntimeconfig.cache
+D:\WorkSpace\TH_hello2\obj\Debug\net9.0\ref\TH_hello2.dll
