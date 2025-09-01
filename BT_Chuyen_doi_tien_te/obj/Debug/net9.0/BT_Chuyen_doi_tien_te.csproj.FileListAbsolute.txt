@@ -1,0 +1,15 @@
+D:\WorkSpace\BT_Chuyen_doi_tien_te\bin\Debug\net9.0\BT_Chuyen_doi_tien_te.exe
+D:\WorkSpace\BT_Chuyen_doi_tien_te\bin\Debug\net9.0\BT_Chuyen_doi_tien_te.deps.json
+D:\WorkSpace\BT_Chuyen_doi_tien_te\bin\Debug\net9.0\BT_Chuyen_doi_tien_te.runtimeconfig.json
+D:\WorkSpace\BT_Chuyen_doi_tien_te\bin\Debug\net9.0\BT_Chuyen_doi_tien_te.dll
+D:\WorkSpace\BT_Chuyen_doi_tien_te\bin\Debug\net9.0\BT_Chuyen_doi_tien_te.pdb
+D:\WorkSpace\BT_Chuyen_doi_tien_te\obj\Debug\net9.0\BT_Chuyen_doi_tien_te.GeneratedMSBuildEditorConfig.editorconfig
+D:\WorkSpace\BT_Chuyen_doi_tien_te\obj\Debug\net9.0\BT_Chuyen_doi_tien_te.AssemblyInfoInputs.cache
+D:\WorkSpace\BT_Chuyen_doi_tien_te\obj\Debug\net9.0\BT_Chuyen_doi_tien_te.AssemblyInfo.cs
+D:\WorkSpace\BT_Chuyen_doi_tien_te\obj\Debug\net9.0\BT_Chuyen_doi_tien_te.csproj.CoreCompileInputs.cache
+D:\WorkSpace\BT_Chuyen_doi_tien_te\obj\Debug\net9.0\BT_Chuyen_doi_tien_te.sourcelink.json
+D:\WorkSpace\BT_Chuyen_doi_tien_te\obj\Debug\net9.0\BT_Chuyen_doi_tien_te.dll
+D:\WorkSpace\BT_Chuyen_doi_tien_te\obj\Debug\net9.0\refint\BT_Chuyen_doi_tien_te.dll
+D:\WorkSpace\BT_Chuyen_doi_tien_te\obj\Debug\net9.0\BT_Chuyen_doi_tien_te.pdb
+D:\WorkSpace\BT_Chuyen_doi_tien_te\obj\Debug\net9.0\BT_Chuyen_doi_tien_te.genruntimeconfig.cache
+D:\WorkSpace\BT_Chuyen_doi_tien_te\obj\Debug\net9.0\ref\BT_Chuyen_doi_tien_te.dll
