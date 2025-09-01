@@ -1,0 +1,15 @@
+D:\WorkSpace\TH_khai_bao_va_sd_bien\obj\Debug\net9.0\TH_khai_bao_va_sd_bien.GeneratedMSBuildEditorConfig.editorconfig
+D:\WorkSpace\TH_khai_bao_va_sd_bien\obj\Debug\net9.0\TH_khai_bao_va_sd_bien.AssemblyInfoInputs.cache
+D:\WorkSpace\TH_khai_bao_va_sd_bien\obj\Debug\net9.0\TH_khai_bao_va_sd_bien.AssemblyInfo.cs
+D:\WorkSpace\TH_khai_bao_va_sd_bien\obj\Debug\net9.0\TH_khai_bao_va_sd_bien.csproj.CoreCompileInputs.cache
+D:\WorkSpace\TH_khai_bao_va_sd_bien\obj\Debug\net9.0\TH_khai_bao_va_sd_bien.sourcelink.json
+D:\WorkSpace\TH_khai_bao_va_sd_bien\bin\Debug\net9.0\TH_khai_bao_va_sd_bien.exe
+D:\WorkSpace\TH_khai_bao_va_sd_bien\bin\Debug\net9.0\TH_khai_bao_va_sd_bien.deps.json
+D:\WorkSpace\TH_khai_bao_va_sd_bien\bin\Debug\net9.0\TH_khai_bao_va_sd_bien.runtimeconfig.json
+D:\WorkSpace\TH_khai_bao_va_sd_bien\bin\Debug\net9.0\TH_khai_bao_va_sd_bien.dll
+D:\WorkSpace\TH_khai_bao_va_sd_bien\bin\Debug\net9.0\TH_khai_bao_va_sd_bien.pdb
+D:\WorkSpace\TH_khai_bao_va_sd_bien\obj\Debug\net9.0\TH_khai_bao_va_sd_bien.dll
+D:\WorkSpace\TH_khai_bao_va_sd_bien\obj\Debug\net9.0\refint\TH_khai_bao_va_sd_bien.dll
+D:\WorkSpace\TH_khai_bao_va_sd_bien\obj\Debug\net9.0\TH_khai_bao_va_sd_bien.pdb
+D:\WorkSpace\TH_khai_bao_va_sd_bien\obj\Debug\net9.0\TH_khai_bao_va_sd_bien.genruntimeconfig.cache
+D:\WorkSpace\TH_khai_bao_va_sd_bien\obj\Debug\net9.0\ref\TH_khai_bao_va_sd_bien.dll
