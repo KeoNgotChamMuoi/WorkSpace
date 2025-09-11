@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("sdToanTu")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0ef09556df7eb8ee65308582d89a181570d1e6c0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c473be162d98c5382e14da74ab8d50efb58d30a6")]
 [assembly: System.Reflection.AssemblyProductAttribute("sdToanTu")]
 [assembly: System.Reflection.AssemblyTitleAttribute("sdToanTu")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
